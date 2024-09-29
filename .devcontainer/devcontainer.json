@@ -5,7 +5,7 @@
     },
     "onCreateCommand": "lake exe cache get!",
     "hostRequirements": {
-        "cpus": 4
+        "cpus": 1
     },
     "customizations": {
         "codespaces": {
